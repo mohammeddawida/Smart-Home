@@ -52,7 +52,9 @@ if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0',port=8080)
 ```
 <img src="https://github.com/mohammeddawida/Smart-Home/blob/main/ScreenShots/smarthome_bb.png" width="500" />
+
 ## Page App
+
 <img src="https://github.com/mohammeddawida/Smart-Home/blob/main/ScreenShots/Screenshot_1.png" width="250" />
 <img src="https://github.com/mohammeddawida/Smart-Home/blob/main/ScreenShots/Screenshot_2.png" width="250" />
 <img src="https://github.com/mohammeddawida/Smart-Home/blob/main/ScreenShots/Screenshot_3.png" width="250" />
